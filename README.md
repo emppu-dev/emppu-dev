@@ -8,4 +8,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emppu-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-<img src="https://api.status.gg/discord/348719599212167168?format=svg&width=400&theme%5Bbackground%5D%5Bprimary%5D=141514&theme%5Bbackground%5D%5Bsecondary%5D=141514&theme%5Btext%5D%5Bsecondary%5D=444444&theme%5Bseparator%5D=ffffff&border%5Bcolor%5D=ffffff&border%5Bwidth%5D=1&hide%5Bbadges%5D=true&hide%5Bdiscriminator%5D=true" width="450"><br>[![](https://visitcount.itsvg.in/api?id=emppu-dev&icon=5&color=12)](https://visitcount.itsvg.in)
+<img src="https://api.status.gg/discord/348719599212167168?format=svg&width=400&theme%5Bbackground%5D%5Bprimary%5D=141514&theme%5Bbackground%5D%5Bsecondary%5D=141514&theme%5Btext%5D%5Bsecondary%5D=444444&theme%5Bseparator%5D=ffffff&border%5Bcolor%5D=ffffff&border%5Bradius%5D=5&border%5Bwidth%5D=1&hide%5Bbadges%5D=true&hide%5Bdiscriminator%5D=true" width="450"><br>[![](https://visitcount.itsvg.in/api?id=emppu-dev&icon=5&color=12)](https://visitcount.itsvg.in)
