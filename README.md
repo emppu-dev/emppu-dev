@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 About Me
 🎓 Web developer student<br>🔒 Cybersecurity<br>🔍 Open-source intelligence<br>🛡️ Penetration testing<br>🕸️ Web scraping
 
@@ -6,3 +8,5 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=emppu-dev&theme=transparent&layout=compact&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=emppu-dev&theme=transparent&layout=compact&hide_border=true)
+
+</div>
