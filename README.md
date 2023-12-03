@@ -8,5 +8,8 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=emppu-dev&theme=transparent&layout=compact&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=emppu-dev&theme=transparent&layout=compact&hide_border=true)
+# 📬 Contact Me
+📧 Email: [emppu@emppu.dev](mailto:emppu@emppu.dev)
+🔑 PGP Key: [Download PGP Key](https://emppu.dev/pgp.asc)
 
 </div>
