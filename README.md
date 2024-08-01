@@ -1,8 +1,5 @@
 <div align="center">
 
-# 💫 About Me
-🎓 Web developer student<br>🔒 Cybersecurity<br>🔍 Open-source intelligence<br>🛡️ Penetration testing<br>🕸️ Web scraping
-
 # 💻 Tech Stack
 <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/><img width="12" />
 <img src="https://skillicons.dev/icons?i=go" height="40" alt="golang logo"/><img width="12" />
